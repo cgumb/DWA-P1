@@ -2,7 +2,7 @@
 
 Welcome to the repository for my first assignment for CSCI E-15!
 
-You can find a live version of the page [here](http://104.236.90.81/).
+You can find a live version of the page here:
 
-I still need to get a domain name :'(
+[p1.chrisgumb.xyz](p1.chrisgumb.xyz)
 
